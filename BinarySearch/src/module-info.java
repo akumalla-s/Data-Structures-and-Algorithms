@@ -5,5 +5,5 @@
  * @author srinredd
  *
  */
-module Test {
+module BinarySearch {
 }
