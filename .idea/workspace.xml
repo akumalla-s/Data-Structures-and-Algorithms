@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4b8388d-e5d5-4aec-a6e6-c2fd3450ba41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortingAlgorithms/BubbleSort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+    <list default="true" id="bad8e1ca-875d-4b65-a4f6-646f1d060e9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures-and-Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures-and-Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/EvenDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/EvenDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/FindMinimumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/FindMinimumNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/RichestCustomerWealth.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/RichestCustomerWealth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchIn2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchIn2DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchInRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchInRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +27,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Sfu2CZoIvON82IZShuy28gATNQ" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2g7Eq5MaTMWx2qjRN8jKA8digAE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,21 +39,33 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "srinivas",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/srinredd/Documents/JavaPractice/Data-Structures-and-Algorithms",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-92e50af3" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f4b8388d-e5d5-4aec-a6e6-c2fd3450ba41" name="Changes" comment="" />
-      <created>1689549763069</created>
+      <changelist id="bad8e1ca-875d-4b65-a4f6-646f1d060e9e" name="Changes" comment="" />
+      <created>1715040404645</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1689549763069</updated>
-      <workItem from="1689549776301" duration="92000" />
+      <updated>1715040404645</updated>
+      <workItem from="1715040405774" duration="146000" />
+      <workItem from="1715040619009" duration="71000" />
     </task>
     <servers />
   </component>
