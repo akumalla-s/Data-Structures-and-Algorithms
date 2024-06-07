@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bad8e1ca-875d-4b65-a4f6-646f1d060e9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LinearSearch/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/EvenDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/FindMinimumNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/RichestCustomerWealth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchIn2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchInRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/SearchInString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/bin/com/srinredd/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/srinredd/EvenDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/srinredd/FindMinimumNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/srinredd/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/srinredd/RichestCustomerWealth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/srinredd/SearchIn2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/srinredd/SearchInRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/srinredd/SearchInString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/srinredd/Test.java" beforeDir="false" />
-    </list>
+    <list default="true" id="bad8e1ca-875d-4b65-a4f6-646f1d060e9e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +53,7 @@
       <workItem from="1715040405774" duration="146000" />
       <workItem from="1715040619009" duration="71000" />
       <workItem from="1715968762603" duration="178000" />
+      <workItem from="1715968955816" duration="188000" />
     </task>
     <servers />
   </component>
